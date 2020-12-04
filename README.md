@@ -1,12 +1,16 @@
 ## Run API
 
 #### Requirements:
-##### - Install mongodb and run it
+##### - Install MongoDB and run it
 ####
 ##### Then run:
 ####
 ```bash
 npm i && npm run dev
+```
+#### To run the tests:
+```bash
+npm run test
 ```
 
 ##### SignUp endpoint: `POST /auth/signup`, data: 
